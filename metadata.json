@@ -1,0 +1,6 @@
+{
+  "name": "DPH Vendedor Dashboard",
+  "description": "A dashboard and career tracking application for DPH sales representatives, designed to monitor daily activities, track progress towards goals, and visualize career development.",
+  "requestFramePermissions": [],
+  "type": "pwa"
+}
